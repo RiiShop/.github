@@ -18,9 +18,9 @@
 ---
 
 <p align="center"><b>All the fun people who've contributed:</b></p>
-<p align="center">Developers: <b>Wabagg123, Thom, Alex, RandomName, fin, MattTheTekie.</b></p> REDO
-<p align="center">Graphic Designers: <b>fin, ChrisPlayzYT</b></p> REDO
-<p align="center">Translators: <b>RandomName, Alex, Thom</b></p> REDO
+<p align="center">Developers: <b>Dakotath, Wabagg123, Luca, and MattTheTekie.</b></p>
+<p align="center">Graphic Designers: <b>??, ??</b></p> 
+<p align="center">Translators: <b>??, ??, ??</b></p> 
 <p align="center">
   <a href="https://github.com/RiiShop/.github/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=RiiShop/.github" />
