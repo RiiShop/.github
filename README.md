@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://example.com">
-    <img height="100px" src="https://cdn.discordapp.com/icons/1254198821626314762/ef9fe3423a2d165646dd01a3c3764cbe.webp?size=4096" alt="Logo"/> CHANGE
+    <img height="100px" src="https://cdn.discordapp.com/icons/1254198821626314762/ef9fe3423a2d165646dd01a3c3764cbe.webp?size=4096" alt="Logo"/>
   </a>
 </p>
 <h1 align="center"><i>Rii Shop Channel</i></h1>
