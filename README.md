@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://ftolnks.xyz"> CHANGE
-    <img height="100px" src="https://cdn.discordapp.com/icons/1198390670994460742/c98740dec1b26339c0d81a529a23a73b.webp?size=4096" alt="Logo"/> CHANGE
+  <a href="https://example.com">
+    <img height="100px" src="https://cdn.discordapp.com/icons/1254198821626314762/ef9fe3423a2d165646dd01a3c3764cbe.webp?size=4096" alt="Logo"/> CHANGE
   </a>
 </p>
 <h1 align="center"><i>Rii Shop Channel</i></h1>
@@ -29,12 +29,12 @@
 
 ---
 
-<p align="center"><b><a href="https://ftolnks.xyz">[Get started!]</a></b></p> CHANGE
+<p align="center"><b><a href="https://example.com">[Get started!]</a></b></p>
 
 ---
 
 #### I want to modify the languages or add more of them!
-That's amazing! Just head over to [our Crowdin page](https://crowdin.com/project/Reviive-Shop-Channel) and begin translating! CHANGE
+That's amazing! Just head over to [our Crowdin page](https://crowdin.com/project/RiiShop) and begin translating! CHANGE
 
 ---
 
@@ -93,5 +93,5 @@ Thats all the history as of 7/3/24, <br> thank you for supporting us over these 
 
 ----------------------------------------
 
-<a href="https://ftolnks.xyz/reviivedsc" target="_blank">https://ftolnks.xyz/reviivedsc (Discord)</a></br> CHANGE ASAP
-<a href="https://ftolnks.xyz/reviiveyt" target="_blank">https://ftolnks.xyz/reviiveyt (YouTube)</a> CHANGE ASAP
+<a href="https://ftolnks.xyz/reviivedsc" target="_blank">https://example.com (Discord)</a></br> CHANGE ASAP
+<a href="https://ftolnks.xyz/reviiveyt" target="_blank">https://example.com (YouTube)</a> CHANGE ASAP
