@@ -34,7 +34,7 @@
 ---
 
 #### I want to modify the languages or add more of them!
-That's amazing! Just head over to [our Crowdin page](https://crowdin.com/project/RiiShop) and begin translating! CHANGE
+That's amazing! Just head over to [our Crowdin page](https://crowdin.com/project/RiiShop) and begin translating!
 
 ---
 
@@ -93,5 +93,5 @@ Thats all the history as of 7/3/24, <br> thank you for supporting us over these 
 
 ----------------------------------------
 
-<a href="https://ftolnks.xyz/reviivedsc" target="_blank">https://example.com (Discord)</a></br> CHANGE ASAP
-<a href="https://ftolnks.xyz/reviiveyt" target="_blank">https://example.com (YouTube)</a> CHANGE ASAP
+<a href="https://ftolnks.xyz/reviivedsc" target="_blank">https://example.com (Discord)</a></br>
+<a href="https://ftolnks.xyz/reviiveyt" target="_blank">https://example.com (YouTube)</a>
