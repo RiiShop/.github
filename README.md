@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://discord.gg/5565aDyYBr">
     <img height="100px" src="https://cdn.discordapp.com/icons/1254198821626314762/ef9fe3423a2d165646dd01a3c3764cbe.webp?size=4096" alt="Logo"/>
   </a>
 </p>
@@ -29,7 +29,7 @@
 
 ---
 
-<p align="center"><b><a href="https://example.com">[Get started!]</a></b></p>
+<p align="center"><b><a href="https://discord.gg/5565aDyYBr">[Get started!]</a></b></p>
 
 ---
 
@@ -56,5 +56,5 @@ That's amazing! Just head over to [our Crowdin page](https://crowdin.com/project
 #### Temporary Placeholder - MattTheTekie was here. nya~
 ----------------------------------------
 
-<a href="https://example.com" target="_blank">(Discord)</a></br>
-<a href="https://example.com" target="_blank">(YouTube)</a>
+<a href="https://discord.gg/5565aDyYBr" target="_blank">(Discord)</a></br>
+<a href="https://www.youtube.com/@riishop" target="_blank">(YouTube)</a>
