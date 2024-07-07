@@ -56,5 +56,5 @@ That's amazing! Just head over to [our Crowdin page](https://crowdin.com/project
 #### Temporary Placeholder - MattTheTekie was here. nya~
 ----------------------------------------
 
-<a href="https://discord.gg/5565aDyYBr" target="_blank">(Discord)</a></br>
-<a href="https://www.youtube.com/@riishop" target="_blank">(YouTube)</a>
+<a href="https://discord.gg/5565aDyYBr" target="_blank">[Discord]</a></br>
+<a href="https://www.youtube.com/@riishop" target="_blank">[YouTube]</a>
